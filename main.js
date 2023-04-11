@@ -1,0 +1,1 @@
+const supuestoCambio = document.querySelector('.menu');
